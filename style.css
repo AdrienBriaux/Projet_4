@@ -654,6 +654,9 @@ a {
     color: #575757;
 }
 
+#description h2 {
+    color: white;
+}
 
 .container {
     max-width: 1000px;
@@ -776,7 +779,7 @@ h4 {
 }
 
 .tc-white {
-    color: black;
+    color: white;
 }
 
 .btn-atomic-tangerine {
