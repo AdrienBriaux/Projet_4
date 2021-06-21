@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+#bloc-4-portfolio img {
+    width: 100%;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
