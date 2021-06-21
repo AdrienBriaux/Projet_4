@@ -827,7 +827,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("https://raw.githubusercontent.com/AdrienBriaux/Projet_4/master/img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
@@ -839,7 +839,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("/img/image-de-presentation.jpg");
+    background-image: url("https://raw.githubusercontent.com/AdrienBriaux/Projet_4/master/img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
