@@ -681,7 +681,16 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
+}
+
+.citation-text {
+    font-style: italic;
+    font-size: 22px;
+}
+
+.citation-text span {
+    font-weight: lighter;
 }
 
 .tight-width-whitespace {
@@ -714,7 +723,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
