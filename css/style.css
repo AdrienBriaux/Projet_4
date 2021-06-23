@@ -236,6 +236,7 @@ a:hover {
 .l-bloc h6 a,
 .l-bloc p a {
     color: rgba(0, 0, 0, .6);
+    font-weight: 700;
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -663,8 +664,7 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
-    color      : #575757;
+    color      : black;
 }
 
 #description h2 {
@@ -700,6 +700,7 @@ p {
 .citation-text {
     font-style: italic;
     font-size : 22px;
+    font-weight: 700;
 }
 
 .citation-text span {
@@ -732,7 +733,6 @@ p {
 }
 
 h2 {
-    font-size  : 22px;
     line-height: 1.4em;
 }
 
