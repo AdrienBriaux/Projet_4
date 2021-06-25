@@ -12,6 +12,11 @@ body {
     margin: auto;
 }
 
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -741,7 +746,7 @@ h3 {
     font-size     : 18px;
     text-transform: uppercase;
     font-weight   : 700;
-    color         : #333333 !important;
+    color         : black;
 }
 
 .med-width-whitespace {
