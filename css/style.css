@@ -7,14 +7,18 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.title {
+    font-family: 'Viaoda Libre', cursive;
+}
+
 #bloc-4-portfolio img {
-    width: 270px;
+    width : 270px;
     margin: auto;
 }
 
 ul {
     list-style-type: none;
-    padding: 0;
+    padding        : 0;
 }
 
 a,
@@ -241,7 +245,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color      : rgba(0, 0, 0, .6);
     font-weight: 700;
 }
 
@@ -704,8 +708,8 @@ p {
 }
 
 .citation-text {
-    font-style: italic;
-    font-size : 22px;
+    font-style : italic;
+    font-size  : 22px;
     font-weight: 700;
 }
 
