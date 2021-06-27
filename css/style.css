@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.link-hidden {
+    display: none;
+}
+
 .title {
     font-family: 'Viaoda Libre', cursive;
 }
@@ -781,7 +785,7 @@ h4 {
 }
 
 .portfolio-row {
-    margin-bottom: 44px;
+    padding-bottom: 44px;
     margin-top   : 50px;
 }
 
