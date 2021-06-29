@@ -944,6 +944,14 @@ h4 {
         background-image: none;
     }
 
+    .texture-paper::before {
+        background: none;
+    }
+
+    .bg-dots-bg{
+        background-image: none;
+    }
+
     h1,
     h2,
     h3,
