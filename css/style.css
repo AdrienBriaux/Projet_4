@@ -936,6 +936,14 @@ h4 {
         position  : relative;
     }
 
+    .bg-banniere {
+        background-image: none;
+    }
+
+    .bg-presentation{
+        background-image: none;
+    }
+
     h1,
     h2,
     h3,
