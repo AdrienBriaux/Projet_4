@@ -777,7 +777,7 @@ h4 {
 
 .portfolio-row {
     padding-bottom: 44px;
-    margin-top   : 50px;
+    margin-top    : 50px;
 }
 
 .avatar {
@@ -800,10 +800,6 @@ h4 {
 
 .bgc-white {
     background-color: #FFFFFF;
-}
-
-.bgc-dark-slate-blue {
-    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
@@ -857,8 +853,11 @@ h4 {
     background-image: url("https://raw.githubusercontent.com/AdrienBriaux/Projet_4/master/img/la-chouette-agence-banniere.jpg");
 }
 
-.bg-presentation {
-    background-image: url("https://raw.githubusercontent.com/AdrienBriaux/Projet_4/master/img/image-de-presentation.jpg");
+.bg-presentation,
+.black-filter {
+
+    background-color: #000000;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://raw.githubusercontent.com/AdrienBriaux/Projet_4/master/img/la-chouette-agence-banniere.jpg);
 }
 
 .tc-orange {
@@ -939,7 +938,7 @@ h4 {
         background-image: none;
     }
 
-    .bg-presentation{
+    .bg-presentation {
         background-image: none;
     }
 
@@ -947,7 +946,7 @@ h4 {
         background: none;
     }
 
-    .bg-dots-bg{
+    .bg-dots-bg {
         background-image: none;
     }
 
