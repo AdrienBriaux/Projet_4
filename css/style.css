@@ -1,3 +1,11 @@
+@font-face {
+    font-family : 'Charm';
+    src         : url('Charm-Regular.ttf') format('truetype');
+    font-weight : normal;
+    font-style  : normal;
+    font-display: swap;
+}
+
 body {
     margin                 : 0;
     padding                : 0;
@@ -13,7 +21,7 @@ body {
 
 .title {
     font-family: 'Charm', cursive;
-    font-size: 30px;
+    font-size  : 30px;
 }
 
 #bloc-4-portfolio img {
